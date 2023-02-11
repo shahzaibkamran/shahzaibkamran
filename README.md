@@ -37,8 +37,6 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibkamran&layout=compact&theme=radical" />
   </div>
 </div>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <b>Comit History:</b>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=shahzaibkamran&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
