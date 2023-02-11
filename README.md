@@ -48,6 +48,8 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 [<img align="left" alt="shahzaib-kamran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shahzaib-Kamran | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 
+<br />
+<br />
 
 ### Languages and Tools:
 
