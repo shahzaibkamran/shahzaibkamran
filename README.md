@@ -31,16 +31,16 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 <h3>💻 GitHub Profile Stats</h3>
 <div style="display: flex;">
   <div style="padding-right: 0px;">
-    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=shahzaib-tas&theme=radical&count_private=true" />
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=shahzaibkamran&theme=radical&count_private=true" />
   </div>
   <div style="padding-right: 0px;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-tas&layout=compact&theme=radical" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibkamran&layout=compact&theme=radical" />
   </div>
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <b>Comit History:</b>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=shahzaib-tas&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=shahzaibkamran&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ### Connect with me:
 
