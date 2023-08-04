@@ -8,7 +8,7 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 
 ## I'm a Developer and a Site Reliability Engineer!
 
-- 🖥️ I have been working as the Development Team Lead at Apptimum Labs
+- 🖥️ I have been working as a senior software engineer at WillportTrust 
 - 🖨️ I have extensive experience working with a variety of programming languages, including Ruby, .Net, and Node.js, and databases such as MS SQL, PostgreSQL, MySQL, and MongoDB.
 - 🧑‍💻 I have a strong commitment to ongoing learning and have developed valuable skills in team work, management, and relationship building
 - 🌱 I’m currently learning Machine Learning, AI and NLP.
@@ -16,16 +16,12 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 ## Books:  
 
 - 📖 Think and Grow Rich by Napoleon Hill
-
 - 📖 The 7 Habits of Highly Effective People by Stephen Covey
 
 - 📕 Finished: 
-     * The Promised Land by Barak Obama. 
-
+     * The Promised Land by Barak Obama.
      * How to Win Friends and Influence People by Dale Carnegie
-
      * The Power of Positive Thinking by Norman Vincent Peale
-
      * The Lean Startup by Eric Ries
      
 <h3>💻 GitHub Profile Stats</h3>
@@ -37,8 +33,6 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibkamran&layout=compact&theme=radical" />
   </div>
 </div>
-<b>Comit History:</b>
-<a href="https://github.com/shahzaibkamran/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=shahzaibkamran&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ### Connect with me:
 
