@@ -63,4 +63,4 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 
 [website]: https://example.com
 [linkedin]: https://www.linkedin.com/in/shahzaibkamran/
-[upwork]: https://www.example.com
+[upwork]: https://www.upwork.com/freelancers/shahzebkam
