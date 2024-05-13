@@ -2,14 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaibkamran/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;I+am+a+Software+Engineer;and+Tech+Enthusiast;I+can+get+your+ideas+into+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;I+am+a+Senior+Software+Engineer;and+Tech+Enthusiast;I+can+get+your+ideas+into+software)](https://git.io/typing-svg)
 
 I am a problem solver and a tech enthusiast, dedicated to creating innovative and user-friendly software solutions that make a difference in people's lives.
 
-## I'm a Developer and a Site Reliability Engineer!
+## I'm a Senior Software Engineer and a Site Reliability Engineer!
 
 - 🖥️ I have been working as a senior software engineer at WillportTrust 
-- 🖨️ I have extensive experience working with a variety of programming languages, including Ruby, Python, C, C++ and Java, and databases such as MS SQL, PostgreSQL, MySQL, and MongoDB.
+- 🖨️ I have extensive experience working with a variety of programming languages, including Ruby, Python, JavaScript, C, C++, Java and Dart, and databases such as MS SQL, PostgreSQL, MySQL, and MongoDB.
 - 🧑‍💻 I have a strong commitment to ongoing learning and have developed valuable skills in team work, management, and relationship building
 - 🌱 I’m currently learning Machine Learning, AI and NLP.
 
