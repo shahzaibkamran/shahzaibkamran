@@ -1,7 +1,5 @@
 # Hi, I'm Shahzaib Kamran 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaibkamran/)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;I+am+a+Senior+Software+Engineer;and+Tech+Enthusiast;I+can+get+your+ideas+into+software)](https://git.io/typing-svg)
 
 I am a problem solver and a tech enthusiast, dedicated to creating innovative and user-friendly software solutions that make a difference in people's lives.
