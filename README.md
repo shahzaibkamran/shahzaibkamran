@@ -13,7 +13,7 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 
 ## Books:  
 
-- 📖 Think and Grow Rich by Napoleon Hill
+- 📖 Predictable Revenue: Turn Your Business Into a Sales Machine by Aaron Ross
 - 📖 The 7 Habits of Highly Effective People by Stephen Covey
 
 - 📕 Finished: 
