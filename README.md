@@ -4,7 +4,7 @@
 
 I am a problem solver and a tech enthusiast, dedicated to creating innovative and user-friendly software solutions that make a difference in people's lives.
 
-## I'm a Senior Software Engineer and a Site Reliability Engineer!
+## I'm a Technical Lead!
 
 - 🖥️ I have been working as a senior software engineer at WillportTrust 
 - 🖨️ I have extensive experience working with a variety of programming languages, including Ruby, Python, JavaScript, C, C++, Java and Dart, and databases such as MS SQL, PostgreSQL, MySQL, and MongoDB.
@@ -14,13 +14,6 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 ## Books:  
 
 - 📖 Predictable Revenue: Turn Your Business Into a Sales Machine by Aaron Ross
-- 📖 The 7 Habits of Highly Effective People by Stephen Covey
-
-- 📕 Finished: 
-     * The Promised Land by Barak Obama.
-     * How to Win Friends and Influence People by Dale Carnegie
-     * The Power of Positive Thinking by Norman Vincent Peale
-     * The Lean Startup by Eric Ries
      
 <h3>💻 GitHub Profile Stats</h3>
 <div style="display: flex;">
